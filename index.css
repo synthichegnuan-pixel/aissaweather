@@ -1,0 +1,6 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles custom */
+.app-shell { width:100%; max-width:1024px; background: white; border-radius:16px; box-shadow:0 10px 30px rgba(2,6,23,0.08); padding:24px; }
